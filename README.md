@@ -4,7 +4,7 @@
 
 ![image](https://github.com/JasonKK1/NEMARLmodel/blob/main/nemarl.png)
 
-In this project,we propose a NEMARL model to analyzing the evolution mechanism in networks as described in this paper.
+In this project, we propose a NEMARL model to analyzing the evolution mechanism in networks as described in this paper.
 
 ## Installation
 
@@ -51,9 +51,9 @@ In the common directory, there are two key components: arguments and evaluation.
 
 ## Questions
 
-For any question about this program ,please contact
+For any question about this program, please contact
 
-Email:202237576@mail.sdu.edu.cn
+Email: 202237576@mail.sdu.edu.cn
 
 
 
