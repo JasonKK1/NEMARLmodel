@@ -2,7 +2,7 @@
 
 ## DESCRIPTINON
 
-![图片3](C:\Users\62706\Desktop\图片3.png)
+![image](https://github.com/JasonKK1/NEMARLmodel/nemarl.png)
 
 In this project,we propose a NEMARL model to analyzing the evolution mechanism in networks as described in this paper.
 
