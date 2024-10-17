@@ -1,11 +1,5 @@
 # NEMARL model
 
-## DESCRIPTINON
-
-![image](https://github.com/JasonKK1/NEMARLmodel/blob/main/nemarl.png)
-
-In this project, we propose a NEMARL model to analyzing the evolution mechanism in networks as described in this paper.
-
 ## Installation
 
 ### Environment
@@ -44,10 +38,6 @@ This directory  contains three distinct graph embedding methods: Struct2Vec, Gra
 **3.Common:**
 
 In the common directory, there are two key components: arguments and evaluation. The arguments module is responsible for handling input parameters and configurations for the graph embedding methods. The evaluation module  includes classic metrics from complex network analysis, such as modularity, clustering coefficient.
-
-
-
-
 
 ## Questions
 
